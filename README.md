@@ -1,0 +1,5 @@
+# DevOps Practice
+My journey to becoming a DevOps engineer.
+## What I have learned
+- Linux commands
+- Git and GitHub
